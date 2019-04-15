@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LocusDemo</string>
+    <string name="good">Good</string>
+    <string name="ok">Ok</string>
+    <string name="bad">Bad</string>
+    <string name="title">Title</string>
+    <string name="provide_comment">Provide Comment</string>
+    <string name="image_not_found">No image found!</string>
+    <string name="save">Save</string>
+</resources>
